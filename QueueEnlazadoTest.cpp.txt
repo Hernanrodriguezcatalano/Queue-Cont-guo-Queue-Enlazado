@@ -1,0 +1,27 @@
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include <assert.h>
+
+using namespace std;
+
+void print_number(int* myInt) {
+	assert(myInt != NULL);
+	cout<</n<<*myInt;
+}
+
+int main()
+{
+	int a = 10;
+	int * b = NULL;
+	int * c = NULL;
+
+	b = &a;
+
+	print_number(b);
+	print_number(c);
+
+	cin >> a;
+	return 0;
+}
