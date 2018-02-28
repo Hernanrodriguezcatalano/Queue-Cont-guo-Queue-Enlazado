@@ -1,4 +1,4 @@
-# Queue-Cont-guo-Queue-Enlazado
+# Queue-Contiguo-Queue-Enlazado
 
 /*/*Hernán Rodríguez Catalano
 /*1505397
