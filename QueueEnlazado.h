@@ -17,3 +17,4 @@ int deQueue(Queue&);
 int first(const Queue&);
 unsigned length(const Queue&);
 void vaciarQueue(Queue&);
+bool EsPalindromo(Queue);
